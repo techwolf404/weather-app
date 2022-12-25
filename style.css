@@ -27,6 +27,7 @@ body {
   margin: 0.5rem;
   padding: 0.5rem;
   border-right: solid 2px hsl(200, 100%, 10%);
+  gap: 0.5rem;
 }
 
 .weather-icon {
